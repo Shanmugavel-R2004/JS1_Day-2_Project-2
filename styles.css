@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color:#45d38e;
+}
+button{
+    width: 150px;
+    background-color: aqua;
+    border-radius: 20px;
+}
